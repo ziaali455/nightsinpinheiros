@@ -131,26 +131,34 @@ const App = () => {
       </NavigationBar>
       <LatinDescription>
       This is a collection of poems, both by me and some of my favorite poets, that I read and wrote during my time in Pinheiros, São Paulo. As far as the original poems, these are the first I have ever written, and most are quite bad, but they are genuine. Some are written in Portuguese, others in English. This website is more for my own book-keeping, but I figured it would be good to share the work of some amazing literary figures. Inspiration was drawn from the incredible work of Ahmad Faraz (translated from Urdu), Rumi (translated from Farsi), Kofi Awoonor (translated from Ewe), Mahmoud Darwish (translated from Arabic), and, most importantly, Maya Angelou.
-
       </LatinDescription>
       <PoemsGrid>
         {poemsData.map(poem => (
           <div key={poem.title}>
             <PoemTitle>{poem.title}</PoemTitle>
-            <PoemContent>{ReactHtmlParser(poem.content)}</PoemContent>
+            <PoemContent>{processPoemContent(poem.content)}</PoemContent>
           </div>
         ))}
       </PoemsGrid>
     </Body>
   );
 };
+
 const PoemCard = styled.div`
   flex: 0 0 45%; /* Adjust the size of the poem card */
   border: 1px solid #ccc;
   padding: 10px;
   margin-bottom: 10px;
 `;
-
+// Function to replace \n with React line breaks (<br />)
+const processPoemContent = content => {
+  return content.split('\n').map((line, index) => (
+    <React.Fragment key={index}>
+      {line}
+      <br />
+    </React.Fragment>
+  ));
+};
 
 const PoemContent = styled.p`
   font-size: 16px;
