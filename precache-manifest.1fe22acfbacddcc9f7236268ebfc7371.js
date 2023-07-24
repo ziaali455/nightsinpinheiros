@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "e9de9f9319bb629fff5b",
-    "url": "/nightsinpinheiros/static/css/main.c3559413.chunk.css"
+    "revision": "79cf46e5d2f397d40307",
+    "url": "/nightsinpinheiros/static/css/main.738a83b3.chunk.css"
   },
   {
-    "revision": "e9de9f9319bb629fff5b",
-    "url": "/nightsinpinheiros/static/js/main.e9de9f93.chunk.js"
+    "revision": "79cf46e5d2f397d40307",
+    "url": "/nightsinpinheiros/static/js/main.79cf46e5.chunk.js"
   },
   {
     "revision": "93c748a80b187c4a0720",
     "url": "/nightsinpinheiros/static/js/1.93c748a8.chunk.js"
   },
   {
-    "revision": "ab59db5adf44356c5134",
-    "url": "/nightsinpinheiros/static/css/2.1e47550a.chunk.css"
+    "revision": "6850a7a0ae4e855d16c3",
+    "url": "/nightsinpinheiros/static/css/2.82a06196.chunk.css"
   },
   {
-    "revision": "ab59db5adf44356c5134",
-    "url": "/nightsinpinheiros/static/js/2.ab59db5a.chunk.js"
+    "revision": "6850a7a0ae4e855d16c3",
+    "url": "/nightsinpinheiros/static/js/2.6850a7a0.chunk.js"
   },
   {
     "revision": "ec127d962928861fe68a",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/nightsinpinheiros/static/media/github-mark.8dcc6b52.svg"
   },
   {
-    "revision": "662a663c5a8f0b14ab20c8332f912931",
+    "revision": "8f6ca4d6f8109f79190236c3208c2991",
     "url": "/nightsinpinheiros/index.html"
   }
 ];
