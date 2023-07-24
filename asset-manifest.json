@@ -1,7 +1,7 @@
 {
   "main.css": "/nightsinpinheiros/static/css/main.c3559413.chunk.css",
-  "main.js": "/nightsinpinheiros/static/js/main.e42c43c2.chunk.js",
-  "main.js.map": "/nightsinpinheiros/static/js/main.e42c43c2.chunk.js.map",
+  "main.js": "/nightsinpinheiros/static/js/main.e9de9f93.chunk.js",
+  "main.js.map": "/nightsinpinheiros/static/js/main.e9de9f93.chunk.js.map",
   "static/js/1.93c748a8.chunk.js": "/nightsinpinheiros/static/js/1.93c748a8.chunk.js",
   "static/js/1.93c748a8.chunk.js.map": "/nightsinpinheiros/static/js/1.93c748a8.chunk.js.map",
   "static/css/2.1e47550a.chunk.css": "/nightsinpinheiros/static/css/2.1e47550a.chunk.css",
@@ -10,9 +10,9 @@
   "runtime~main.js": "/nightsinpinheiros/static/js/runtime~main.ec127d96.js",
   "runtime~main.js.map": "/nightsinpinheiros/static/js/runtime~main.ec127d96.js.map",
   "static/media/github-mark.svg": "/nightsinpinheiros/static/media/github-mark.8dcc6b52.svg",
-  "static/css/2.1e47550a.chunk.css.map": "/nightsinpinheiros/static/css/2.1e47550a.chunk.css.map",
   "static/css/main.c3559413.chunk.css.map": "/nightsinpinheiros/static/css/main.c3559413.chunk.css.map",
+  "static/css/2.1e47550a.chunk.css.map": "/nightsinpinheiros/static/css/2.1e47550a.chunk.css.map",
   "index.html": "/nightsinpinheiros/index.html",
-  "precache-manifest.fc354b3bf0f8100385b3aeca2acc3809.js": "/nightsinpinheiros/precache-manifest.fc354b3bf0f8100385b3aeca2acc3809.js",
+  "precache-manifest.c35b364d15410d92fd083ae15c10bc75.js": "/nightsinpinheiros/precache-manifest.c35b364d15410d92fd083ae15c10bc75.js",
   "service-worker.js": "/nightsinpinheiros/service-worker.js"
 }
