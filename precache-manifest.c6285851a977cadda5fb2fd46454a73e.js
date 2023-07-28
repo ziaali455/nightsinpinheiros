@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f6266e183b90d1aac265",
+    "revision": "c512d61d21f6fbd375d9",
     "url": "/nightsinpinheiros/static/css/main.738a83b3.chunk.css"
   },
   {
-    "revision": "f6266e183b90d1aac265",
-    "url": "/nightsinpinheiros/static/js/main.f6266e18.chunk.js"
+    "revision": "c512d61d21f6fbd375d9",
+    "url": "/nightsinpinheiros/static/js/main.c512d61d.chunk.js"
   },
   {
     "revision": "93c748a80b187c4a0720",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/nightsinpinheiros/static/media/github-mark.8dcc6b52.svg"
   },
   {
-    "revision": "2f1fbf64510cd14612f9b538169c78a8",
+    "revision": "04b3dbca8ae5347076598f6ee8369892",
     "url": "/nightsinpinheiros/index.html"
   }
 ];
