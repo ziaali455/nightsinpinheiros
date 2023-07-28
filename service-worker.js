@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nightsinpinheiros/precache-manifest.1fe22acfbacddcc9f7236268ebfc7371.js"
+  "/nightsinpinheiros/precache-manifest.be859e163f7c59942c7612a3551011a4.js"
 );
 
 workbox.clientsClaim();
