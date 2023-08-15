@@ -130,7 +130,7 @@ const App = () => {
         </GitHubLink>
       </NavigationBar>
       <LatinDescription>
-      This is a collection of poems, both by me and some of my favorite poets, that I read and wrote during my time in Pinheiros, São Paulo. As far as the original poems, these are the first I have ever written, and most are quite bad, but they are genuine. Some are written in Portuguese, others in English. This website is more for my own book-keeping, but I figured it would be good to share the work of some amazing literary figures. Inspiration was drawn from the incredible work of Ahmad Faraz (translated from Urdu), Rumi (translated from Farsi), Kofi Awoonor (translated from Ewe), Mahmoud Darwish (translated from Arabic), and, most importantly, Maya Angelou.
+      This is a collection of poems, both by me and some of my favorite poets, that I read and wrote during my time in Pinheiros, São Paulo. As far as the original poems, these are the first I have ever written, and most are quite rough, but they are genuine. Some are written in Portuguese, others in English. This website is more for my own book-keeping, but I figured it would be good to share the work of some amazing literary figures. Inspiration was drawn from the incredible work of Ahmad Faraz (translated from Urdu), Rumi (translated from Farsi), Kofi Awoonor (translated from Ewe), Mahmoud Darwish (translated from Arabic), and Maya Angelou.
       </LatinDescription>
       <PoemsGrid>
         {poemsData.map(poem => (
